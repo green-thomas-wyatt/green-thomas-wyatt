@@ -91,12 +91,25 @@ I am a Data Scientist at **Dell Technologies** and a graduate student in Data Sc
 
 ---
 
+---
+
+### 🎯 Core Engineering Competencies & Domain Strengths
+
+| Domain | Focus & Specialization | Proven Business & Technical Impact |
+| :--- | :--- | :--- |
+| **Predictive Modeling & ML** | Quantile Regression, Asymmetric Pinball Loss, Time-to-Value (TTV) Forecasting | **85% predictive accuracy** (+12% boost over baseline OLS); calibrated 80% prediction intervals |
+| **Distributed Big Data & ETL** | PySpark, Spark SQL, Heterogeneous Ingestion, Scalable Joins | Multi-gigabyte geospatial ETL parsing across Yelp, US Census (DP05/DP03), and OpenStreetMap |
+| **Enterprise Alerting Systems** | Automated Telemetry Monitoring, Milestone Risk Detection, Operational Analytics | Overseeing Dell **Lighthouse** alerting engine saving **$1M+/year** in operational project friction |
+| **Cohort & Financial Optimization** | P&L Ledger Mining, Performance Normalization, Unsupervised Customer Clustering | **$200K+ recurring annual savings** in concessions; 10,000+ customer profiles segmented via K-Means |
+
+<br/>
+
 <div align="center">
 
-### 📊 GitHub Activity & Language Stats
+💬 *Open to discussing data science, predictive modeling pipelines, and ML engineering opportunities.*  
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-wyatt-green-4bb988203/) or drop a line at [`green.thomas.wyatt@gmail.com`](mailto:green.thomas.wyatt@gmail.com)!**
 
-<img src="https://github-readme-stats.vercel.app/api?username=green-thomas-wyatt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=green-thomas-wyatt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
 <br/><br/>
 
