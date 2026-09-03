@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-I am a Data Scientist at **Dell Technologies** and a graduate student in Data Science at **UT Austin**. I bridge deep algorithmic machine learning with real-world enterprise engineering—transforming ambiguous, multi-source telemetry data into automated decision systems and predictive engines.
+I am a Data Scientist at **Dell Technologies** and a graduate student in Data Science at **UT Austin**. I bridge deep algorithmic machine learning with real world enterprise engineering—transforming ambiguous, multi-source telemetry data into automated decision systems and predictive engines.
 
 - 🔭 **Current Focus**: Overseeing **Lighthouse**, an internal predictive alerting system that saves **$1M+/year** through proactive project milestone risk mitigation.
 - 🎓 **Education**: M.S. in Data Science from The University of Texas at Austin; B.S. in Computer Science from Trinity University (NCAA National Champion athlete & fraternity president).
