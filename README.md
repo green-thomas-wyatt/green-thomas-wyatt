@@ -110,10 +110,3 @@ I am a Data Scientist at **Dell Technologies** and a graduate student in Data Sc
 **Connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-wyatt-green-4bb988203/) or drop a line at [`green.thomas.wyatt@gmail.com`](mailto:green.thomas.wyatt@gmail.com)!**
 
 </div>
-
-<br/><br/>
-
-💬 *Open to discussing data science, predictive modeling pipelines, and ML engineering opportunities.*  
-**Connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-wyatt-green-4bb988203/) or drop a line at `green.thomas.wyatt@gmail.com`!**
-
-</div>
